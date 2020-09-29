@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1601405900 source:c:\users\isaac\pycharmprojects\c++ exercises\battleships\main.cpp
+	<iostream>
+	<stdio.h>
+	<dos.h>
+	<conio.h>
+	<strings.h>
+	<Windows.h>
+	<stdlib.h>
+	<time.h>
+
